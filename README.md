@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/jt8mEC6Kffbwbv2tNH/giphy.gif" width="200" height="200"/>
 </div>
-<h4>I am a web full stack developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I am always curious about learning new skills, tools, and concepts.</h4>
+<h4>I am a full stack developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I am always curious about learning new skills, tools, and concepts.</h4>
 
 - 🌱 I’m currently learning **MERN Stack.**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/codepen.io/daisyle0203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/daisyle0203" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/daisyy-le/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/daisyy-le/" height="30" width="40" /></a>
+<a href="https://codepen.io/daisyle0203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/daisyle0203" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daisyy-le/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/daisyy-le/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
