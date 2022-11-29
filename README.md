@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/images/banner.gif" width="2000" height="250"/>
+  <img src="./assets/images/banner.gif" width="2000" height="400"/>
 </div>
 <h1 align="center">Hi There 👋, I'm Daisy.</h1>
 <h3 align="center">Full-stack web developer, intuitive problem-solver, passionate about building user-centric products.</h3>
