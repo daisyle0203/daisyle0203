@@ -1,3 +1,5 @@
+![Banner](./assets/images/banner.gif)
+
 <h1 align="center">Hi There 👋, I'm Daisy.</h1>
 <h3 align="center">Full-stack web developer, intuitive problem-solver, passionate about building user-centric products.</h3>
 <div align="center">
