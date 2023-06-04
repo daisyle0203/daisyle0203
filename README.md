@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning: **Java.**
 
-- 💬 Ask me about: **Javascript, React, MERN Stack.**
+- 💬 Ask me about: **Java, Javascript, React.**
 
 - 📫 Reach me at: **daisy.le0203@gmail.com**
 
